@@ -1,5 +1,10 @@
 package itstep.learning;
 
+import com.google.inject.Injector;
+import com.sun.javaws.jnl.IconDesc;
+import itstep.learning.async.AsyncDemo;
+import itstep.learning.ios.IocDemo;
+import itstep.learning.ios.Resolver;
 import itstep.learning.oop.OopDemo;
 
 /**
@@ -11,7 +16,12 @@ public class App
     public static void main( String[] args )
     {
         // new Basics().run();
-        new OopDemo().run();
+        // new OopDemo().run();
+         new AsyncDemo().run();
+//        Resolver resolver = new Resolver();
+//        Injector injector = resolver.getInjector();
+//        IocDemo iocDemo = injector.getInstance(IocDemo.class);
+//        iocDemo.run();
     }
 }
 /*
