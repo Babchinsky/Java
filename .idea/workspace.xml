@@ -4,48 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20e5d48a-1371-468c-96b1-5b105b0436c8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Share.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/Basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/Basics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/MatrixMult.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/MatrixMult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/async/AsyncDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/async/AsyncDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/ios/IocDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/ios/IocDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/ios/Resolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/ios/Resolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/ios/ServiceModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/ios/ServiceModule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/AutoShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/AutoShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/Crossover.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/Crossover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/LargeSized.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/LargeSized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/OopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/OopDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/Trailer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/Trailer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/Truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/VehicleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/VehicleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/annotations/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/annotations/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/annotations/Required.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/oop/annotations/Required.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/services/HashService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/java/itstep/learning/services/Md5HashService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/main/resources/shop.json" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/main/resources/shop.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaKN213/src/test/java/itstep/learning/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKN213/src/test/java/itstep/learning/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="20e5d48a-1371-468c-96b1-5b105b0436c8" name="Changes" comment="Homeworks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,17 +22,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/OleksiiBabchynskyi/OneDrive - Dvigunity/Рабочий стол/Dvigunity/Timetracker/TimetrackerFront&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/OleksiiBabchynskyi/OneDrive - Dvigunity/Рабочий стол/Dvigunity/Timetracker/TimetrackerFront",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -92,10 +55,24 @@
       <updated>1728565442403</updated>
       <workItem from="1728565443855" duration="69000" />
       <workItem from="1728565537302" duration="38000" />
+      <workItem from="1728565587433" duration="341000" />
     </task>
+    <task id="LOCAL-00001" summary="Homeworks">
+      <option name="closed" value="true" />
+      <created>1728565906098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728565906098</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homeworks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homeworks" />
   </component>
 </project>
