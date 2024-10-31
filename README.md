@@ -1,8 +1,10 @@
 # Java
 
-## HW 01.10
-![alt text](ScreenShots/01-10-1.png)
-![alt text](ScreenShots/01-10-2.png)
+## HW 03.10
+![alt text](ScreenShots/03-10.png)
+
+## HW 02.10
+![alt text](ScreenShots/02-10.png)
 
 ## HW 30.09
 ![alt text](ScreenShots/30-09.png)
